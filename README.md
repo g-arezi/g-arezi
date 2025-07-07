@@ -14,10 +14,21 @@
 
 ---
 
+
 ## 💼 Meu Portfólio  
 
 Explore meu portfólio com temas claros/escuros, seções interativas, design responsivo e animações:
 👉 [portifolio-beta-five-52.vercel.app](https://portifolio-beta-five-52.vercel.app/)
+
+---
+## 📫 Vamos nos conectar
+
+| Plataforma | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/gabriel-arezi](https://www.linkedin.com/in/gabriel-arezi) |
+| 🧠 GitHub | [github.com/g-arezi](https://github.com/g-arezi) |
+| 🌐 Portfólio | [portifolio-beta-five-52.vercel.app](https://portifolio-beta-five-52.vercel.app/) |
+| 💬 Discord | xGsa |
 
 ---
 
@@ -38,8 +49,7 @@ Explore meu portfólio com temas claros/escuros, seções interativas, design re
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## ⚙️ GitHub Stats & UTC Clock
+## ⚙️ GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=g-arezi&show_icons=true&theme=radical" height="170">
@@ -49,27 +59,6 @@ Explore meu portfólio com temas claros/escuros, seções interativas, design re
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-arezi&theme=radical" height="170">
 </p>
-
----
-
-### 🕒 Hora Atual em São Paulo
-<p align="center">
-  <img
-    src="https://readme-time.vercel.app/api?timezone=America/Sao_Paulo&time_format=HH:mm&font_size=22px&center=true&color=F7DF1E&bg=00000000"
-    alt="São Paulo time"
-  />
-</p>
-
----
-
-## 📫 Vamos nos conectar
-
-| Plataforma | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/gabriel-arezi](https://www.linkedin.com/in/gabriel-arezi) |
-| 🧠 GitHub | [github.com/g-arezi](https://github.com/g-arezi) |
-| 🌐 Portfólio | [portifolio-beta-five-52.vercel.app](https://portifolio-beta-five-52.vercel.app/) |
-| 💬 Discord | xGsa |
 
 ---
 
