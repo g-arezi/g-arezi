@@ -52,10 +52,12 @@ Explore meu portfólio com temas claros/escuros, seções interativas, design re
 
 ---
 
-### 🕒 Hora Atual em São Paulo
-
+### 🕒 Hora Atual em São Paulo
 <p align="center">
-  <img src="https://readme-time.rakhim.dev/api?timezone=America/Sao_Paulo&color=1f1f1f&background=00000000&fontSize=22px" alt="current time">
+  <img
+    src="https://readme-time.vercel.app/api?timezone=America/Sao_Paulo&time_format=HH:mm&font_size=22px&center=true&color=F7DF1E&bg=00000000"
+    alt="São Paulo time"
+  />
 </p>
 
 ---
