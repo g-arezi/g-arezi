@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gabriel Arezi (g‑arezi)
 
 [![Website](https://img.shields.io/badge/Portfolio-Online-blue?logo=vercel)](https://portifolio-beta-five-52.vercel.app/)
-[![GitHub followers](https://img.shields.io/github/followers/g-arezi?label=Seguidores&style=social)]
+![GitHub followers](https://img.shields.io/github/followers/g-arezi?label=Seguidores&style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-arezi)
 [![Discord](https://img.shields.io/badge/Discord-xGsa-7289DA?logo=discord)](https://discordapp.com/users/xGsa)
 
