@@ -18,7 +18,7 @@
 ## 💼 Meu Portfólio  
 
 Explore meu portfólio com temas claros/escuros, seções interativas, design responsivo e animações:
-👉 [portifolio-beta-five-52.vercel.app](https://portifolio-beta-five-52.vercel.app/)
+👉 [https://gabriel-arezi.vercel.app/](https://gabriel-arezi.vercel.app/)
 
 ---
 ## 📫 Vamos nos conectar
@@ -27,7 +27,7 @@ Explore meu portfólio com temas claros/escuros, seções interativas, design re
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/gabriel-arezi](https://www.linkedin.com/in/gabriel-arezi) |
 | 🧠 GitHub | [github.com/g-arezi](https://github.com/g-arezi) |
-| 🌐 Portfólio | [portifolio-beta-five-52.vercel.app](https://portifolio-beta-five-52.vercel.app/) |
+| 🌐 Portfólio | [https://gabriel-arezi.vercel.app/](https://gabriel-arezi.vercel.app/) |
 | 💬 Discord | xGsa |
 
 ---
