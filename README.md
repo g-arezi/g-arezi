@@ -9,8 +9,8 @@
 
 ## 🌱 Sobre mim  
 - Estudante de Análise e Desenvolvimento de Sistemas  
-- Apaixonado por desenvolvimento web com foco em Java, C/C++, PHP, Node.js, React e MySQL  
-- Atualmente aprimorando habilidades em **Java** e aplicando em projetos reais  
+- Apaixonado por desenvolvimento web com foco em Java, C/C++, PHP, Node.js, Nest, Next, React e MySQL  
+- Atualmente aprimorando habilidades, com foco em Analise e Qualidade de Software.
 
 ---
 
