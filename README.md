@@ -68,20 +68,7 @@ Explore meu portfólio com temas claros/escuros, seções interativas, design re
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-## ⚙️ GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g-arezi&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-arezi&layout=compact&theme=radical" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-arezi&theme=radical" height="170">
-</p>
-
----
 
 > *“Aprendendo sempre, criando sempre.”*
 
-**⭐ Se curtir, deixe uma estrela nos repositórios e compartilhe!**
