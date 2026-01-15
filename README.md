@@ -18,7 +18,7 @@
 ## 💼 Meu Portfólio  
 
 Explore meu portfólio com temas claros/escuros, seções interativas, design responsivo e animações:
-👉 [https://gabriel-arezi.vercel.app/](https://gabriel-arezi.vercel.app/)
+👉 [Clicando aqui!](https://gabriel-arezi.vercel.app/)
 
 ---
 ## 📫 Vamos nos conectar
