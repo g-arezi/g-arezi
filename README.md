@@ -7,7 +7,7 @@
 
 ---
 
-## 🌱 Sobre mim  
+##  Sobre mim  
 - Estudante de Análise e Desenvolvimento de Sistemas  
 - Apaixonado por desenvolvimento web com foco em Java, C/C++, PHP, Node.js, Nest, Next, React e MySQL  
 - Atualmente aprimorando habilidades, com foco em Analise e Qualidade de Software.
@@ -15,13 +15,13 @@
 ---
 
 
-## 💼 Meu Portfólio  
+## Meu Portfólio  
 
 Explore meu portfólio com temas claros/escuros, seções interativas, design responsivo e animações:
 👉 [Clicando aqui!](https://gabriel-arezi.vercel.app/)
 
 ---
-## 📫 Vamos nos conectar
+##  Vamos nos conectar
 
 | Plataforma | Link |
 |---|---|
@@ -32,7 +32,7 @@ Explore meu portfólio com temas claros/escuros, seções interativas, design re
 
 ---
 
-## 🚀 Skills & Ferramentas
+##  Skills & Ferramentas
 
 **Linguagens**:  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
