@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-xGsa-7289DA?logo=discord)](https://discordapp.com/users/xGsa)
 
 ---
-
+[![Profile](https://github.com/g-arezi/Materiais---Gabriel-Arezi/blob/main/Logo/Principal/PNG/Logo%20-%20Letra%20Branca%20V2.png?raw=true))
 ##  Sobre mim  
 - Estudante de Análise e Desenvolvimento de Sistemas  
 - Apaixonado por desenvolvimento web com foco em Java, C/C++, PHP, Node.js, Nest, Next, React e MySQL  
