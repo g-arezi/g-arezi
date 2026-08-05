@@ -1,40 +1,56 @@
-# 👋 Olá, eu sou o Gabriel Arezi (g‑arezi)
+<div align="center">
 
-[![Website](https://img.shields.io/badge/Portfolio-Online-blue?logo=vercel)](https://portifolio-beta-five-52.vercel.app/)
-![GitHub followers](https://img.shields.io/github/followers/g-arezi?label=Seguidores&style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-arezi)
-[![Discord](https://img.shields.io/badge/Discord-xGsa-7289DA?logo=discord)](https://discordapp.com/users/xGsa)
+<img src="https://github.com/g-arezi/Materiais---Gabriel-Arezi/blob/main/Logo/Principal/PNG/Logo%20-%20Letra%20Branca%20V2.png?raw=true" width="140" alt="Gabriel Arezi"/>
+
+# Olá, eu sou o Gabriel Arezi 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+desenvolvimento+web;Aprimorando+habilidades+em+Cibersegur%C3%A1n%C3%A7a)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-Online-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://gabriel-arezi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-arezi)
+[![Discord](https://img.shields.io/badge/Discord-xGsa-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/xGsa)
+[![GitHub followers](https://img.shields.io/github/followers/g-arezi?label=Seguidores&style=for-the-badge&logo=github&color=181717)](https://github.com/g-arezi)
+
+</div>
 
 ---
-[![Profile](https://github.com/g-arezi/Materiais---Gabriel-Arezi/blob/main/Logo/Principal/PNG/Logo%20-%20Letra%20Branca%20V2.png?raw=true)
-##  Sobre mim  
-- Estudante de Análise e Desenvolvimento de Sistemas  
-- Apaixonado por desenvolvimento web com foco em Java, C/C++, PHP, Node.js, Nest, Next, React e MySQL  
-- Atualmente aprimorando habilidades, com foco em segurança cibernética.
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Apaixonado por desenvolvimento web, com foco em **Java, C/C++, PHP, Node.js, Nest, Next, React e MySQL**
+- 🔐 Atualmente aprimorando habilidades com foco em **segurança cibernética**
+- 🌱 Sempre aprendendo algo novo e explorando novas tecnologias
 
 ---
 
-
-## Meu Portfólio  
+## 🌐 Meu Portfólio
 
 Explore meu portfólio com temas claros/escuros, seções interativas, design responsivo e animações:
-👉 [Clicando aqui!](https://gabriel-arezi.vercel.app/)
+
+<div align="center">
+
+### 👉 [Clique aqui para visitar!](https://gabriel-arezi.vercel.app/)
+
+</div>
 
 ---
-##  Vamos nos conectar
+
+## 🤝 Vamos nos conectar
 
 | Plataforma | Link |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/gabriel-arezi](https://www.linkedin.com/in/gabriel-arezi) |
 | 🧠 GitHub | [github.com/g-arezi](https://github.com/g-arezi) |
-| 🌐 Portfólio | [https://gabriel-arezi.vercel.app/](https://gabriel-arezi.vercel.app/) |
+| 🌐 Portfólio | [gabriel-arezi.vercel.app](https://gabriel-arezi.vercel.app/) |
 | 💬 Discord | xGsa |
 
 ---
 
-##  Skills & Ferramentas
+## 🛠️ Skills & Ferramentas
 
-**Linguagens**:  
+**Linguagens**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +65,8 @@ Explore meu portfólio com temas claros/escuros, seções interativas, design re
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-31648A?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Ferramentas**:  
+**Frameworks & Ferramentas**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -68,7 +85,39 @@ Explore meu portfólio com temas claros/escuros, seções interativas, design re
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
 
+## 👾 Contribuições em modo arcade
 
-> *“Aprendendo sempre, criando sempre.”*
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-arezi/g-arezi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-arezi/g-arezi/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/g-arezi/g-arezi/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+## ⚙️ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=g-arezi&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-arezi&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=g-arezi&theme=tokyonight&hide_border=true" height="170" alt="Streak do GitHub"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Aprendendo sempre, criando sempre."*
+
+**⭐ Se curtir, deixe uma estrela nos repositórios e compartilhe!**
+
+</div>
