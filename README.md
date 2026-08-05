@@ -4,7 +4,7 @@
 
 # Olá, eu sou o Gabriel Arezi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+desenvolvimento+web;Aprimorando+habilidades+em+Cibersegur%C3%A1n%C3%A7a)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Fullstack+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-Online-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://gabriel-arezi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-arezi)
