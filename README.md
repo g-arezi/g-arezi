@@ -17,9 +17,8 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Apaixonado por desenvolvimento web, com foco em **Java, C/C++, PHP, Node.js, Nest, Next, React e MySQL**
-- 🔐 Atualmente aprimorando habilidades com foco em **segurança cibernética**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 2025-2027 ⏱
+- 💻 Apaixonado por desenvolvimento web, com foco em **Java, C#, C/C++, PHP, Node.js, Nest, Next, React e MySQL**
 - 🌱 Sempre aprendendo algo novo e explorando novas tecnologias
 
 ---
